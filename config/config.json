@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Indijati2",
+    "database": "binar_cars_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Indijati2",
+    "database": "cars_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Indijati2",
+    "database": "cars_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
